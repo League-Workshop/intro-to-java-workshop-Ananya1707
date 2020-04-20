@@ -1,0 +1,10 @@
+size(500,500);
+background(#2220E0);
+fill(#F0E61D);
+ellipse(120,100,120,120);
+fill(#F0831D);
+rect(150,350,150,350);
+fill(#CE1D1D);
+triangle(150,350,300,350,225,300);
+fill(#862E1C);
+rect(200,420,50,420);
